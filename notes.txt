@@ -1,0 +1,8 @@
+Category	% Share	Approx. Records	Example Focus
+Fraud Risk Management & Prevention	25%	132	AI/ML, analytics, scoring, monitoring
+Technology & Cyber Fraud	20%	106	phishing, BEC, synthetic media
+Anti-Financial Crime (AFC) & Regulatory Compliance	20%	106	AML, KYC, SARs, FATF
+Common Fraud Schemes	15%	79	identity, payment, corporate, investment
+Fraud Investigation & Response	10%	53	forensics, interviews, evidence
+Core Fraud Concepts & Principles	7%	37	fraud triangle, red flags, psychology
+Cross-Functional (Training, Awareness)	3%	15	whistleblowing, employee awareness
